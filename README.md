@@ -22,7 +22,7 @@ I'm a passionate Full-Stack Web Developer who loves building web apps that are f
 
 ### 📫 Let's Connect
 <p>
-  <a href="https://discord.com/users[520826116135583765]">
+  <a href="https://discord.com/users/520826116135583765">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
   <a href="https://www.linkedin.com/in/bhone-pyae-moe-077199274/">
